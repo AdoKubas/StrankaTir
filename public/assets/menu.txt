@@ -1,0 +1,5 @@
+domov::Domov
+spravy::Správy
+galeria::Fotogaléria
+blog::Blog
+onas::O nás

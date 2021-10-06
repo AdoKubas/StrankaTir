@@ -1,0 +1,3 @@
+admin::admin123::Jurko Jánošík::admin
+andrej::heslo1::Andrej Kubas::admin
+marek::heslo2::Marek Kurcin::user
